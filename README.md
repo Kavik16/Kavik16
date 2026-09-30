@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Kavik16
+#  Kavik16
 ### Руководитель & Основатель [Netrix.pw](https://netrix.pw)
 **Серверы • VDS / VPS • Защита от DDoS • Облачная инфраструктура**
 
