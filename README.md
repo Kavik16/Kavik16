@@ -3,7 +3,6 @@
 # Kavik
 
 **Founder & Lead Developer @ [Netrix.pw](https://netrix.pw)**  
-*Разработка биллинговых систем, панелей управления и облачной инфраструктуры.*
 
 <br/>
 
